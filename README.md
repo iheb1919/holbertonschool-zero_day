@@ -1,1 +1,1 @@
-this file is mandatory in all school projects
+this file is mandatory in all school projects after update
