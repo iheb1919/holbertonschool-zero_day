@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+this file is mandatory in all school projects
